@@ -1,0 +1,20 @@
+## qssi-user 13 TKQ1.220807.001 00WW_2_420 release-keys
+- Manufacturer: hmd global
+- Platform: holi
+- Codename: SNT_sprout
+- Brand: Nokia
+- Flavor: qssi-user
+- Release Version: 13
+- Kernel Version: 5.4.233
+- Id: TKQ1.220807.001
+- Incremental: 00WW_2_420
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Nokia/Sentry_00WW/SNT_sprout:13/TKQ1.220807.001/00WW_2_420:user/release-keys
+- OTA version: 
+- Branch: qssi-user-13-TKQ1.220807.001-00WW_2_420-release-keys
+- Repo: nokia_snt_sprout_dump
